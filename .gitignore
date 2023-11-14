@@ -1,0 +1,15 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+FlattenedMinter.txt
+
+
+# Hardhat files
+cache
+artifacts
+access_token
+notes.txt
+Verify

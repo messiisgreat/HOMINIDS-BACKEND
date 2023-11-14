@@ -1,0 +1,9 @@
+.yarn
+artifacts
+cache
+coverage
+node_modules
+typechain-types
+
+/scripts/contract.json
+verify
