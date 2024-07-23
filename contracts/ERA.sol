@@ -15,6 +15,7 @@ import "./ERATypes.sol";
 import "hardhat/console.sol";
 
 contract ERA is ERC721URIStorage, ReentrancyGuard {
+
     /// Events
     event Listed(
         uint64 indexed list_id,
